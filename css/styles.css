@@ -28,8 +28,8 @@ a {
 
 .navbar-left a {
   text-align: center;
-  background-color: rgb(187, 225, 250, 0.8);
-  color: #035aa6;
+  background-color: rgb(196, 251, 109, 0.8);
+  color: #084177;
   display: block;
   padding: 2.5%;
   margin: 4%;
@@ -41,8 +41,8 @@ a {
 
 .navbar-left a:hover {
   transition: 0.5s;
-  background-color: #035aa6;
-  color: #bbe1fa;
+  background-color: #084177;
+  color: #c4fb6d;
   border-radius: 16px;
 }
 
@@ -57,8 +57,8 @@ a {
 
 .navbar-right a {
   text-align: center;
-  background-color: rgb(187, 225, 250, 0.8);
-  color: #035aa6;
+  background-color: rgb(196, 251, 109, 0.8);
+  color: #084177;
   display: block;
   padding: 2.5%;
   margin: 4%;
@@ -69,8 +69,8 @@ a {
 
 .navbar-right a:hover {
   transition: 0.5s;
-  background-color: #035aa6;
-  color: #bbe1fa;
+  background-color: #084177;
+  color: #c4fb6d;
   border-radius: 16px;
 }
 
@@ -114,8 +114,8 @@ a {
 .sign-up-input {
   border-radius: 12px;
   border: solid 0.1px;
-  background-color: #bbe1fa;
-  color: #035aa6;
+  background-color: #c4fb6d;
+  color: #084177;
   font-size: 220%;
   padding: 1%;
   padding-top: 0.3%;
@@ -135,8 +135,8 @@ a {
 .sign-up-submit:hover {
   border-radius: 28px;
   transition: 0.5s;
-  background-color: #035aa6;
-  color: #bbe1fa;
+  background-color: #084177;
+  color: #c4fb6d;
 }
 
 /*  ======= ---- Online Shop ---- ========  */
