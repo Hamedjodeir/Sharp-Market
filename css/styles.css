@@ -41,8 +41,8 @@ a {
 
 .navbar-left a:hover {
   transition: 0.5s;
-  background-color: #084177;
-  color: #c4fb6d;
+  background-color: white;
+  color: blue;
   border-radius: 16px;
 }
 
