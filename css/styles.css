@@ -42,7 +42,7 @@ a {
 .navbar-left a:hover {
   transition: 0.5s;
   background-color: #084177;
-  color: blue;
+  color: #c4fb6d;
   border-radius: 16px;
 }
 
